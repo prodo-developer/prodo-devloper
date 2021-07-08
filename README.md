@@ -1,10 +1,9 @@
 ## 👋 &nbsp;풀스택 개발자 프로도 입니다. ☺️
 
-✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
+✔️ &nbsp;서비스회사 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
 ✔️ &nbsp;정확한 소통을 위한, **over 커뮤니케이션**과 **over 도큐멘테이션**을 추구합니다.\
 ✔️ &nbsp;가이드 문서, 이슈 트래킹, 배포 히스토리 관리 등 문서 작성 능력이 좋습니다.\
 ✔️ &nbsp;개발자의 편한 개발보다 **사용자의 편의**를 더 중요하게 생각합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://congchu.github.io/portfolio-1">웹 사이트</a>를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
@@ -21,8 +20,8 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=prodo-developer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodo-developer&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Contact
